@@ -1,2 +1,3 @@
-# gai_with_langchain_huggingface
+# GAI With Langchain And Huggingface
+
 Complete Generative AI Course With Langchain and Huggingface
